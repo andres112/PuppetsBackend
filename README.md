@@ -1,6 +1,6 @@
-# restaurantes v1.0.0
+# puppets v1.0.0
 
-Backend para restaurantes y platos
+Backend para red Social Sencilla de Mascotas
 
 - [Usuarios](#usuarios)
 	- [Inicio de Sesion](#inicio-de-sesion)

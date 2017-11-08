@@ -1,6 +1,6 @@
 {
-  "name": "restaurantes",
-  "description": "Backend para restaurantes y platos",
+  "name": "puppets",
+  "description": "Backend para red Social Sencilla de Mascotas",
   "version": "1.0.0",
   "private": true,
   "scripts": {
